@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{411:function(t,n,s){"use strict";s.r(n);var e=s(42),i=Object(e.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[n("src-rtyMusicList"),this._v(" "),n("src-nintendoPoint")],1)}),[],!1,null,null,null);n.default=i.exports}}]);
